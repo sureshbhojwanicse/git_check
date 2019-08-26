@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<conio.h>
+{
+clrscr();
+File *ptr;
+file.fopen("newfile.txt",w)
